@@ -5,7 +5,7 @@ import { AppComponent } from './app.component';
 
 import { FusionGridModule } from 'angular-fusiongrid';
 
-import FusionGrid from '@fusioncharts/fusiongrid';
+import FusionGrid from 'fusiongrid';
 
 FusionGridModule.setFGRoot(FusionGrid);
 

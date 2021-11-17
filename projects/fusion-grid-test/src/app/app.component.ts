@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import FusionGrid from "@fusioncharts/fusiongrid"; 
+import FusionGrid from "fusiongrid"; 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
