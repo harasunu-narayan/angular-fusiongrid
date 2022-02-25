@@ -17,7 +17,7 @@ A simple and lightweight official Angular component for FusionGrid JavaScript gr
 There are multiple ways to install `angular-fusiongrid` component.
 
 **Direct Download**
-All binaries are located on our [github repository](https://github.com/fusiongrid/react-fusiongrid-component).
+All binaries are located on our [github repository](https://github.com/fusioncharts/angular-fusiongrid/).
 
 **Install from NPM**
 
